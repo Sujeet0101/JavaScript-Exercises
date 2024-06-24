@@ -1,6 +1,6 @@
-# Odin-Assignments
+# JavaScript-Exercises
 
-Odin assignment projects
+JS excercises projects
 
 Landing Page:
 Summary: "This project is a landing page created using HTML and CSS, featuring an image background and various sections such as header, hero, information, quote, sign up and a footer. The HTML file structures the content, while the CSS file styles the layout and design. This project serves as an introduction to basic web development skills."
