@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "pokemon-downloader-project",
+  "version": "1.0.0",
+  "main": "pokemon-downloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "inquirer": "^9.2.22",
+    "node-fetch": "^3.3.2"
+  }
+}
